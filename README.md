@@ -1,1 +1,1 @@
-# horoscopeapp.github.io
+# selfiehoroscopes.github.io
